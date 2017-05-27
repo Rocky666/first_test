@@ -1,0 +1,177 @@
+[
+    {
+        "id": "0",
+        "text": "山东建筑大学",
+        "pid": "-1",
+        "state": "closed",
+        "status": 1
+    },
+    {
+        "id": "001",
+        "text": "计算机学院",
+        "pid": "0",
+        "state": "closed",
+        "status": 1
+    },
+    {
+        "id": "00101",
+        "text": "软件工程专业",
+        "pid": "001",
+        "state": "closed",
+        "status": 1
+    },
+    {
+        "id": "0010102",
+        "text": "软件122班",
+        "pid": "00101",
+        "state": "",
+        "status": 1
+    },
+    {
+        "id": "001010201",
+        "text": "111",
+        "pid": "0010102",
+        "state": "closed",
+        "status": 1
+    },
+    {
+        "id": "001010202",
+        "text": "111",
+        "pid": "0010102",
+        "state": "closed",
+        "status": 1
+    },
+    {
+        "id": "0010103",
+        "text": "软件111班",
+        "pid": "00101",
+        "state": "",
+        "status": 1
+    },
+    {
+        "id": "0010104",
+        "text": "软件112班",
+        "pid": "00101",
+        "state": "",
+        "status": 0
+    },
+    {
+        "id": "0010105",
+        "text": "111",
+        "pid": "00101",
+        "state": "",
+        "status": 0
+    },
+    {
+        "id": "00102",
+        "text": "网络专业",
+        "pid": "001",
+        "state": "closed",
+        "status": 1
+    },
+    {
+        "id": "0010201",
+        "text": "网络111班",
+        "pid": "00102",
+        "state": "",
+        "status": 1
+    },
+    {
+        "id": "0010202",
+        "text": "网络112班",
+        "pid": "00102",
+        "state": "",
+        "status": 1
+    },
+    {
+        "id": "0010203",
+        "text": "网络113班",
+        "pid": "00102",
+        "state": "",
+        "status": 1
+    },
+    {
+        "id": "00103",
+        "text": "计算机科学专业",
+        "pid": "001",
+        "state": "closed",
+        "status": 1
+    },
+    {
+        "id": "002",
+        "text": "建筑学院",
+        "pid": "0",
+        "state": "closed",
+        "status": 1
+    },
+    {
+        "id": "00201",
+        "text": "建筑专业",
+        "pid": "002",
+        "state": "closed",
+        "status": 1
+    },
+    {
+        "id": "003",
+        "text": "管理学院",
+        "pid": "0",
+        "state": "closed",
+        "status": 1
+    },
+    {
+        "id": "004",
+        "text": "艺术学院",
+        "pid": "0",
+        "state": "closed",
+        "status": 1
+    },
+    {
+        "id": "00401",
+        "text": "园艺专业",
+        "pid": "004",
+        "state": "closed",
+        "status": 1
+    },
+    {
+        "id": "0040101",
+        "text": "园艺111班",
+        "pid": "00401",
+        "state": "",
+        "status": 1
+    },
+    {
+        "id": "0040102",
+        "text": "园艺112班",
+        "pid": "00401",
+        "state": "",
+        "status": 1
+    },
+    {
+        "id": "005",
+        "text": "信电学院",
+        "pid": "0",
+        "state": "closed",
+        "status": 1
+    },
+    {
+        "id": "00501",
+        "text": "信电专业",
+        "pid": "005",
+        "state": "closed",
+        "status": 1
+    },
+    {
+        "id": "0050101",
+        "text": "信电092班",
+        "pid": "00501",
+        "state": "",
+        "status": 1
+    },
+    {
+        "id": "0050102",
+        "text": "信电091班",
+        "pid": "00501",
+        "state": "",
+        "status": 1
+    }
+]
